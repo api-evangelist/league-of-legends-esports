@@ -1,0 +1,32 @@
+{
+    "name": "League of Legends eSports",
+    "description": "<p>LoL esports represents professional League of Legends on a global scale. Primarily it includes the five major professional leagues from around the globe.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/league-of-legends-esports.jpeg",
+    "tags": [
+        "api provider",
+        "games",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/league-of-legends-esports\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "League of Legends eSports",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/league-of-legends-esports.jpeg",
+            "humanURL": "http:\/\/na.lolesports.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/na.lolesports.com\/"
+        }
+    ]
+}
